@@ -4,8 +4,8 @@
 require "SampQueryAPI.php";  // Altere o caminho conforme a sua estrutura
 
 // Configurações do servidor SA:MP
-$server_ip = '181.215.254.209'; // Substitua pelo IP do servidor
-$server_port = 7777;      // Substitua pela porta do servidor
+$server_ip = '149.56.41.48'; // Substitua pelo IP do servidor
+$server_port = 7780;      // Substitua pela porta do servidor
 
 // Inicializa os arrays
 $Config['mServersOnline'] = [];

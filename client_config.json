@@ -1,10 +1,10 @@
 {
 	"client_config": {
-		"url_launcher": "http://181.215.254.211/api/files/download/update.apk",
+		"url_launcher": "http://game.samp-mobile.com/samp-mobile.apk",
 		"version_launcher": "4.0",
 		"version_code": 36,
 		"space_available": 4072,
 		"url_cache": "http://game.samp-mobile.com/files.zip",
-		"url_cache_files": "https://raw.githubusercontent.com/gendelb/urbanoapi/refs/heads/main/files/files.php"
+		"url_cache_files": "https://dev.riodejaneirorp.com/api/files/files.php"
 	}
 }

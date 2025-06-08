@@ -2,7 +2,7 @@
 	"client_config": {
 		"url_launcher": "http://game.samp-mobile.com/",
 		"version_launcher": "1.0",
-		"version_code": 0,
+		"version_code": 1,
 		"space_available": 4072,
 		"url_cache": "http://game.samp-mobile.com/files.zip",
 		"url_cache_files": "https://dev.riodejaneirorp.com/api/files/files.php"

@@ -5,6 +5,6 @@
 		"version_code": 1,
 		"space_available": 4072,
 		"url_cache": "http://game.samp-mobile.com/files.zip",
-		"url_cache_files": "https://dev.riodejaneirorp.com/api/files/files.php"
+		"url_cache_files": "http://177.155.199.15/api/files.php"
 	}
 }
